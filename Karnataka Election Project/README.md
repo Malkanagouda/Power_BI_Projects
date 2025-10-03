@@ -20,17 +20,17 @@ The dashboard uses structured election data from trusted sources:
 
 | Data Description                 | Source Link |
 |---------------------------------|-------------|
-| Constituency-wise Winner Data    | [Hindustan Times](https://www.hindustantimes.com/electi...) |
-| Seats Won and Vote Percentage    | [Election Commission of India](https://results.eci.gov.in/ResultAcGe...) |
+| Constituency-wise Winner Data    | [Hindustan Times](https://results.eci.gov.in/ResultAcGenMay2023/partywiseresult-S10.htm) |
+| Seats Won and Vote Percentage    | [Election Commission of India](https://www.hindustantimes.com/elections/karnataka-assembly-election/karnataka-assembly-election-results-2023-live-updates-winning-candidates-full-list-how-many-seats-bjp-congress-jds-won-101683939928400.html) |
 
 Party logos are included for better visualization:  
 
 | Party | Logo |
 |-------|------|
-| INC   | ![INC](https://upload.wikimedia.org/wikipedi...) |
-| BJP   | ![BJP](https://th.bing.com/th/id/OIP.CXjh6fu...) |
-| JD(S) | ![JD(S)](https://th.bing.com/th/id/R.e1c79b1b5...) |
-| Others| ![Others](https://th.bing.com/th/id/R.5107ef021...) |
+| INC   | ![INC](https://upload.wikimedia.org/wikipedia/commons/a/ad/INC_Logo.png) |
+| BJP   | ![BJP](https://th.bing.com/th/id/OIP.CXjh6futy73KaWUeWmUaJAHaGv?pid=ImgDet&rs=1) |
+| JD(S) | ![JD(S)](https://jds.ind.in/en/imgs/jds-logo-badge.png) |
+| Others| ![Others](https://th.bing.com/th/id/R.5107ef021d7b289a8c629052253ad5bf?rik=OrhUQc5xv4OrsQ&riu=http%3A%2F%2Fwww.pngmart.com%2Ffiles%2F7%2FIndia-Map-PNG-Photos.png&ehk=T4dUE85OuaR9fANLA2R24ieMbq39j7BG3HhhXr0TGSA%3D&risl=1&pid=ImgRaw&r=0) |
 
 ---
 
@@ -64,8 +64,9 @@ This dashboard is useful for:
 ## 📬 Get in Touch  
 If you’d like to know more about this project or collaborate on similar Power BI dashboards, feel free to reach out:  
 
-- **Email:** yourname@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+- 💼 **LinkedIn:** [https://linkedin.com/in/mvrp7143](https://linkedin.com/in/mvrp7143)  
+- 🌐 **Portfolio / Website:** [https://github.com/Malkanagouda](https://github.com/Malkanagouda)  
+- 📩 **Email:** mgpatil1107@gmail.com  
 
 I’m always happy to connect, share insights, or discuss new projects!
+---
