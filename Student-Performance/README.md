@@ -1,9 +1,8 @@
-# Student Performance Analysis with Power BI
+# 🎓 Student Performance Analysis with Power BI
 
-## Overview
+This Power BI project analyzes **student performance data** to derive insights that can improve educational outcomes. The dataset includes information such as **gender, race/ethnicity, parental level of education, lunch type, test preparation course completion, and scores** in math, reading, and writing.  
 
-This Power BI project aims to analyze student performance data and derive insights to improve educational outcomes. The dataset includes information such as gender, race/ethnicity, parental level of education, lunch type, test preparation course completion, and scores in math, reading, and writing. This README provides an overview of key insights, DAX measures, and visualization suggestions derived from the analysis.
-
+---
 ## Key Insights and DAX Measures
 
 1. **Overall Performance:**
@@ -50,4 +49,15 @@ These visualization suggestions aim to effectively communicate the insights deri
 1. Import the student performance dataset into Power BI.
 2. Create DAX measures for each key insight using the provided expressions.
 3. Utilize the DAX measures and visualization suggestions to analyze and visualize student performance data effectively.
+
+
+## 📬 Get in Touch  
+
+If you’d like to know more about this project or collaborate on similar Power BI dashboards, feel free to reach out:  
+
+- 💼 **LinkedIn:** [https://linkedin.com/in/mvrp7143](https://linkedin.com/in/mvrp7143)  
+- 🌐 **Portfolio / Website:** [https://github.com/Malkanagouda](https://github.com/Malkanagouda)  
+- 📩 **Email:** mgpatil1107@gmail.com  
+
+I’m always happy to connect, share insights, or discuss new projects!
 
